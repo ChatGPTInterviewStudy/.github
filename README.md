@@ -1,36 +1,36 @@
+# INTERVIEW SCRIPT
 
-INTERVIEW SCRIPT
+## Demographic Questions
+- **Age**
+- **Gender**
+- **Occupational Category**
 
-Demographic Questions
-•	Age
-•	Gender
-•	Occupational Category
+## Category 1: Experience with ChatGPT in Professional Settings
+### Question:
+Please share your overall experience with ChatGPT in the workplace.
 
-Category 1: Obtain the person's experience with the use of ChatGPT in professional settings.
-Question: Please share your overall experience with ChatGPT in the workplace.
+### Points to Address:
+- How long has ChatGPT been used in the workplace?
+- What is ChatGPT used for?
+- How frequently is ChatGPT utilized in the workplace?
+- What questions are asked and how are the questions formulated? Most importantly, what sensitive information is being entered? Names? Codes? Numbers?
+- Are there any guidelines within the organization regarding ChatGPT?
 
-Points that should be addressed:
-•	How long has ChatGPT been used in the workplace?
-•	What is ChatGPT used for?
-•	How frequently is ChatGPT utilized in the workplace?
-•	What questions are asked and how are the questions formulated? Most importantly, what sensitive information is being entered? Names? Codes? Numbers?
-•	Are there any guidelines within the organization regarding ChatGPT?
+## Category 2: Security and Privacy Concerns and Influence on ChatGPT Behavior
+### Question:
+Do you have security and privacy concerns regarding the use of ChatGPT in the workplace?
 
-Category 2: Obtaining security and privacy concerns and influence on the behavior of ChatGPT.
-Question: Do you have security and privacy concerns regarding the use of ChatGPT in the workplace?
+### Points to Address:
+- Does the person have security and privacy concerns?
+  - If yes: Which ones?
+  - If no: Why?
+- Has the person experienced any privacy or security issues when using ChatGPT in the workplace?
+  - If yes: Did this affect the future use and wording of questions in ChatGPT?
+- What does the person think will happen to the data that is entered?
+- Is the person familiar with the available settings for data storage and use?
+- Is the person using ChatGPT for all possible use cases, or are they limiting themselves due to security and privacy concerns?
+- What suggestions does the person have to make the use of ChatGPT secure and privacy-friendly?
 
-Points that should be addressed:
-•	Does the person have security and privacy concerns?
-o	If yes: Which ones?
-o	If no: Why?
-•	Has the person experienced any privacy or security issues when using ChatGPT in the workplace?*
-o	If yes: Did this affect the future use and wording of questions in ChatGPT?*
-•	What does the person think will happen to the data that is entered?
-•	Is the person familiar with the available settings for data storage and use?
-•	Is the person using ChatGPT for all possible use cases, or are they limiting themselves due to security and privacy concerns? 
-•	What suggestions does the person have to make the use of ChatGPT secure and privacy friendly?*
-
-*these questions are not further addressed in the published work
 
 
 
