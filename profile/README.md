@@ -19,7 +19,7 @@
 
 ## TOPIC 2: AWARENESS AND PERCEIVED CONCERNS
 
-### Processing of Data
+*Processing of Data*
 
 - **Improvement of ChatGPT:** Data is used to improve ChatGPT
 - **Partial use:** Only specific data is used
@@ -30,7 +30,7 @@
 - **General Opinions:** Participants share their general opinions on various privacy/security issues
 - **No Awareness of Data Usage:** Participants are not aware that their data is being used
 
-### Storage of Data
+*Storage of Data*
 
 - **Location America:** Servers are located in America
 - **Partly anonymous storage:** Some data is stored anonymously
@@ -41,7 +41,7 @@
 - **Individual folder for each user:** Each user has their own folder with all their personal information
 - **Irrelevance:** Data usage and storage is not an issue as nothing personal is entered and external platforms already have all the information
 
-### Privacy Settings
+*Privacy Settings*
 
 - **Saving chat history adds value:** Saving the chat history has added value for the participants
 - **Aware of the setting:** Participants are aware of the setting options
