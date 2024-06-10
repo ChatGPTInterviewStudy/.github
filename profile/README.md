@@ -51,7 +51,5 @@
 
 ## TOPIC 3: SECURITY AND PRIVACY-RELATED BEHAVIOR
 
-### Strategies
-
 - **Restricting to non-sensitive applications:** Participants use ChatGPT for applications that do not require sensitive information.
 - **Anonymization of input prompts:** Participants use an additional step to anonymize sensitive information
