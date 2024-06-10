@@ -1,40 +1,5 @@
-# INTERVIEW SCRIPT
-
-## Demographic Questions
-- **Age**
-- **Gender**
-- **Occupational Category**
-
-## Category 1: Experience with ChatGPT in Professional Settings
-### Question:
-Please share your overall experience with ChatGPT in the workplace.
-
-### Points to Address:
-- How long has ChatGPT been used in the workplace?
-- What is ChatGPT used for?
-- How frequently is ChatGPT utilized in the workplace?
-- What questions are asked and how are the questions formulated? Most importantly, what sensitive information is being entered? Names? Codes? Numbers?
-- Are there any guidelines within the organization regarding ChatGPT?
-
-## Category 2: Security and Privacy Concerns and Influence on ChatGPT Behavior
-### Question:
-Do you have security and privacy concerns regarding the use of ChatGPT in the workplace?
-
-### Points to Address:
-- Does the person have security and privacy concerns?
-  - If yes: Which ones?
-  - If no: Why?
-- Has the person experienced any privacy or security issues when using ChatGPT in the workplace?
-  - If yes: Did this affect the future use and wording of questions in ChatGPT?
-- What does the person think will happen to the data that is entered?
-- Is the person familiar with the available settings for data storage and use?
-- Is the person using ChatGPT for all possible use cases, or are they limiting themselves due to security and privacy concerns?
-- What suggestions does the person have to make the use of ChatGPT secure and privacy-friendly?
-
-
-
-
 # CODEBOOK
+
 
 ## APPLICATIONS
 
@@ -45,7 +10,14 @@ Do you have security and privacy concerns regarding the use of ChatGPT in the wo
 - **Language Processing:** Used for refining and modifying existing texts
 - **Data Analysis:** Used to analyze data
 
-## AWARENESS AND PERCEIVED CONCERNS
+## TOPIC 1: GUIDELINES
+
+- **No Guidelines:** Participants indicate that guidelines do not exist and share their thoughts on possible reasons
+- **Availability of Guidelines:** The participants state that there are guidelines and describe them
+- **Information for Teachers:** The participants state that although information is available, there are no guidelines for its use
+
+
+## TOPIC 2: AWARENESS AND PERCEIVED CONCERNS
 
 ### Processing of Data
 
@@ -77,13 +49,7 @@ Do you have security and privacy concerns regarding the use of ChatGPT in the wo
 - **Irrelevance:** The setting options are not relevant to the participants
 - **Inconspicuous placement of the setting:** Participants report difficulty in locating the settings
 
-## SECURITY AND PRIVACY-RELATED BEHAVIOR
-
-### Corporate Guidelines
-
-- **No Guidelines:** Participants indicate that guidelines do not exist and share their thoughts on possible reasons
-- **Availability of Guidelines:** The participants state that there are guidelines and describe them
-- **Information for Teachers:** The participants state that although information is available, there are no guidelines for its use
+## TOPIC 3: SECURITY AND PRIVACY-RELATED BEHAVIOR
 
 ### Strategies
 
